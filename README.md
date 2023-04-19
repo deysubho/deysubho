@@ -12,7 +12,7 @@
 <p align="left">
  <a href="https://discord.com/channels/Subhodey#1308" target="blank"><img align="center" src="https://media.tenor.com/5a7v-p3E5pkAAAAC/discord.gif" alt="" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/subhodey" target="blank"><img align="center" src="https://media.tenor.com/2ZexrTx-QSQAAAAC/linkedin.gif" alt="subhodey" height="30" width="40" /></a>
- <a href="https://www.instagram.com/subho_dey_01/" target="blank"><img align="center" src="https://media.tenor.com/VT6FD07iaBgAAAAC/instagram-mycrxn.gif" alt="" height="30" width="40" /></a>
+ <a href="https://hashnode.com/@subhodey" target="blank"><img align="center" src="https://www.finsmes.com/wp-content/uploads/2021/08/hashnode.jpg" alt="" height="30" width="40" /></a>
  <a href="https://leetcode.com/Subho01/" target="blank"><img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/83facdeba5b924cb3b1a" alt="" height="30" width="40" /></a>
 
 </p>
